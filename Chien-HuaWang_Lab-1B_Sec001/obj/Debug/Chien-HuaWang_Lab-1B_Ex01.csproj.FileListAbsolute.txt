@@ -1,0 +1,10 @@
+C:\Users\owner\Desktop\Software Engineering Technolgy\Summer 2018\comp229\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\bin\Debug\Chien-HuaWang_Lab-1B_Sec001.exe.config
+C:\Users\owner\Desktop\Software Engineering Technolgy\Sixth Fall Semester 2018\comp212\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\bin\Debug\Chien-HuaWang_Lab-1B_Sec001.exe.config
+C:\Users\owner\Desktop\Software Engineering Technolgy\Sixth Fall Semester 2018\comp212\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\bin\Debug\Chien-HuaWang_Lab-1B_Sec001.exe
+C:\Users\owner\Desktop\Software Engineering Technolgy\Sixth Fall Semester 2018\comp212\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\bin\Debug\Chien-HuaWang_Lab-1B_Sec001.pdb
+C:\Users\owner\Desktop\Software Engineering Technolgy\Sixth Fall Semester 2018\comp212\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\obj\Debug\Chien-HuaWang_Lab-1B_Ex01.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Software Engineering Technolgy\Sixth Fall Semester 2018\comp212\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\obj\Debug\Chien_HuaWang_Lab_1B_Sec001.Form1.resources
+C:\Users\owner\Desktop\Software Engineering Technolgy\Sixth Fall Semester 2018\comp212\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\obj\Debug\Chien-HuaWang_Lab-1B_Ex01.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\Software Engineering Technolgy\Sixth Fall Semester 2018\comp212\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\obj\Debug\Chien-HuaWang_Lab-1B_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Software Engineering Technolgy\Sixth Fall Semester 2018\comp212\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\obj\Debug\Chien-HuaWang_Lab-1B_Sec001.exe
+C:\Users\owner\Desktop\Software Engineering Technolgy\Sixth Fall Semester 2018\comp212\Chien-HuaWang_Lab-1B_Sec001\Chien-HuaWang_Lab-1B_Sec001\obj\Debug\Chien-HuaWang_Lab-1B_Sec001.pdb
